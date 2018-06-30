@@ -3,7 +3,7 @@
 - Location: 台北市松山區
 - Education:實踐大學 / 媒體傳達設計學系碩士班
 - E-mail: peacethekuma@gmail.com
-- Mobile: 0952-195-838
+- Mobile: +886 952-195-838
 - Personal Website: https://peacethekuma.github.io/kuma-portfolio/
 - GitHub: https://github.com/peacethekuma
 <hr>
@@ -57,7 +57,7 @@
 ### <a href="https://peacethekuma.github.io/Taichung-Speed-Measuring-Locations/" target="_blank">台中市執法測速設置點 (AJAX / Google map API / Bootstrap 4)
 </a>
 	
-- 以 AJAX 方式撈取遠端資料，搭配 Google map API 實現在地圖上標籤位置與顯示資訊視窗。
+- 以 AJAX 方式撈取遠端資料，整合 Google map API 於地圖上顯示位置與資訊視窗。
 - 利用Bootstrap 4製作響應式網頁。
 
 ### <a href="https://peacethekuma.github.io/TheF2E-w01-TodoList/" target="_blank"> Todo List (Vue.js)
@@ -76,4 +76,4 @@
 ## Introduction
 
 - 視覺傳達專業，在接觸網頁設計後對前端開發產生濃厚興趣，開始自學前端領域技能。我喜歡觀察與思考，更熱衷學習與實踐。在前端開發中享受找尋解答的過程，以及從無到有建構出成品的成就感。
-- TOEIC score:865 (Gold Certificate)
+- TOEIC Score:865 (Gold Certificate)
