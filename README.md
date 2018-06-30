@@ -3,6 +3,7 @@
 - Location: 台北市松山區
 - Education:實踐大學 / 媒體傳達設計學系碩士班
 - E-mail: peacethekuma@gmail.com
+- Mobile: 0952-195-838
 - Personal Website: https://peacethekuma.github.io/kuma-portfolio/
 - GitHub: https://github.com/peacethekuma
 <hr>
