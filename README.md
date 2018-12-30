@@ -54,18 +54,18 @@
 
 ## 個人作品 Works
 
-### <a href="https://magic-brain-application.herokuapp.com/ target="_blank"> Magic Brain Application ( React + Node.js + PostgreSQL )
+### <a href="https://magic-brain-application.herokuapp.com/" target="_blank"> Magic Brain App ( React + Node.js + PostgreSQL )
 </a>
 
 - Magic Brain是一個人臉辨識網頁應用程式，使用者註冊登入後，可以輸入影像URL或上傳影像，會標示出影像中所有的人臉。
 - 以 React 建構前端頁面，Express 建構 API。使用PostgreSQL儲存使用者資料。
 - 運用 Clarifai 進行人臉辨識，Cloudinary 保存用戶上傳影像。 
 
-### <a href="https://peacethekuma.github.io/swapi-react-app/" target="_blank"> Magic Brain Application ( React )
+### <a href="https://peacethekuma.github.io/swapi-react-app/" target="_blank"> SWAPI API ( React )
 </a>
 
 - React建構的單頁應用程式，用戶可以瀏覽星際大戰系列電影的各種設定。
-- 使用Fetch API 獲取 遠端資料，並實作Progressive Web App 
+- 使用Fetch API 獲取遠端資料，並實作 Progressive Web App 
 
 ### <a href="https://peacethekuma.github.io/Taichung-Speed-Measuring-Locations/" target="_blank">台中市執法測速設置點 (AJAX / Google map API / Bootstrap 4)
 </a>
