@@ -24,12 +24,12 @@
 - 熟悉 ES6＋ 語法 
 
 
-### 前端技能 Front-end Framework: React + Redux
+### 前端 Front-end Framework: React + Redux
 
 * 以 React.js 框架建構 SPA 網頁應用程式
 * 運用 Redux 管理狀態
 
-### 後端技能 Back-end: Node.js + Express + PostgreSQL
+### 後端 Back-end: Node.js + Express + PostgreSQL
 
 * Node.js + Express 撰寫後端 API
 * Node.js + PostgreSQL 建構資料庫
