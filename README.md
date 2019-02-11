@@ -58,7 +58,7 @@
  - 負責平台的前端頁面開發
  - 測算產品的前端頁面製作與後端 API 串接
   
-### <a href="https://590.wakool.net/" target="_blank"> iPlay 點就玩</a>：
+### <a href="https://iplay.wakool.net/" target="_blank"> iPlay 點就玩</a>：
 
  - 維護遊戲平台的前端頁面
  - 遊戲運行頁面的懸浮球選單製作 及 用戶點擊時返回跳出推薦遊戲等功能。
