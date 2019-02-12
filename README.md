@@ -24,12 +24,12 @@
 - 熟悉 ES6＋ 語法 
 
 
-### 前端 Front-end Framework: React + Redux
+### 前端 Front-end Libraries: React / Redux
 
 * 以 React.js 框架建構 SPA 網頁應用程式
 * 使用 Redux 管理狀態
 
-### 後端 Back-end: Node.js + Express + PostgreSQL
+### 後端 Back-end Libraries: Node.js / Express / PostgreSQL
 
 * Node.js + Express 撰寫後端 API
 * Node.js + PostgreSQL 建構資料庫
@@ -43,25 +43,27 @@
 - 使用 Git 在 GitHub 進行版本控制。
 - GitHub Page 建立網頁。
 
-### 建構工具 Building Tools
+### 其他工具 Tools
 
 - SASS
 - NPM 
 - Webpack 
 - Create React App
+- Firebase
+- Heroku
 
 <hr>
 
 ## Works
 ### <a href="https://590.wakool.net/" target="_blank"> 590 占星網</a>：
 
- - 負責平台的前端頁面開發
- - 測算產品的前端頁面製作與後端 API 串接
+ - 平台前端頁面的主要開發者
+ - 負責測算產品前端頁面的製作與後端 API 串接
   
 ### <a href="https://iplay.wakool.net/" target="_blank"> iPlay 點就玩</a>：
 
- - 維護遊戲平台的前端頁面
- - 遊戲運行頁面的懸浮球選單製作 及 用戶點擊時返回跳出推薦遊戲等功能。
+ - 負責遊戲平台前端頁面的維護
+ - 製作遊戲運行頁面的UI，包含懸浮球選單及用戶點擊時返回跳出推薦遊戲等功能。
   
  
 ## Side Projects
@@ -90,7 +92,7 @@
 ### <a href="https://peacethekuma.github.io/Taichung-Speed-Measuring-Locations/" target="_blank">台中市執法測速設置點 (AJAX / Google map API / Bootstrap 4)
 </a>
 	
-- 以 AJAX 獲取資料，整合 Google map API 於地圖上顯示位置與資訊視窗。
+- 原生 AJAX 獲取資料，整合 Google map API 於地圖上顯示位置與資訊視窗。
 - 利用 Bootstrap 4 製作響應式網頁。
 
 ### <a href="https://peacethekuma.github.io/BMI-Calculator/" target="_blank">BMI Calculator (Javascript)</a>
@@ -102,5 +104,5 @@
 
 ## Introduction
 
-- 視覺傳達背景，自學網頁開發技能。好學並熱衷於實踐過程中成長。
+- 視覺傳達背景，自學的網頁開發者。好學，熱衷於實踐過程中成長。
 - TOEIC Score: 865 (Gold Certificate)
