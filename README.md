@@ -46,7 +46,7 @@
 ### 其他工具 Tools
 
 - SASS
-- NPM 
+- NPM & NPM Script
 - Webpack 
 - Create React App
 - Firebase
